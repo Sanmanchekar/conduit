@@ -1,0 +1,11 @@
+{
+  "name": "conduit",
+  "version": "1.0.0",
+  "description": "Connect matching dots with pipes that never cross and fill every cell.",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "test": "node test/run.js",
+    "start": "python3 -m http.server 8000"
+  }
+}
